@@ -1,4 +1,5 @@
 # Free-Learning-App
+This is the New application. I have create using react native framework. 
 
 <img src="Logo.png" style="height: 300px;width: 300px;">
 	<h2>This application create for provide free learnig resource.</h2>
